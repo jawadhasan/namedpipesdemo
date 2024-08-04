@@ -1,3 +1,7 @@
-# POC App
+# named-pipes
 
-Named Pipes Demo
+Communication using Named Pipes
+
+## Article
+
+https://hexquote.com/communication-using-named-pipes-net/    
